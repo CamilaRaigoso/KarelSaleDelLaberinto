@@ -1,6 +1,6 @@
 
 
- package Futbol;
+ package Ejercicio1;
 
 import becker.robots.City;
 import becker.robots.Direction;

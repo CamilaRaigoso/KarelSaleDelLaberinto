@@ -1,8 +1,7 @@
 
 
- package Histograma;
+ package Ejercicio4;
 
-import Futbol.*;
 import becker.robots.City;
 import becker.robots.Direction;
 import becker.robots.Robot;

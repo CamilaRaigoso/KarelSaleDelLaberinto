@@ -1,4 +1,4 @@
-package Laberinto;
+package Ejercicio2;
 
 
 import becker.robots.*;

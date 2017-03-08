@@ -1,4 +1,4 @@
-package Laberinto;
+package Ejercicio2;
 
 
 public class Numbers {
